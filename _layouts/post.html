@@ -13,6 +13,8 @@ layout: default
 				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
 			</header>
 	    {{- content -}}
+		
+	  </div>
 		   <!--Gitalk评论start  -->
                 {% if site.gitalk %}
                 <!-- 引入Gitalk评论插件  -->
@@ -36,6 +38,5 @@ layout: default
                 </script>
                 {% endif %}
                 <!-- Gitalk end -->
-	  </div>
 	</article>
 </div>
