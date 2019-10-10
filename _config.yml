@@ -35,8 +35,8 @@ subtitle: Your awesome subtitle
 description: >- # this means to ignore newlines until "baseurl:"
   This is the demo site for a Jekyll theme version of
   HTML5 UP's sleek, responsive site template Prologue.
-author: Your Incredible Name
-email: your-email@example.com
+author: firewang2020
+email: firewang2020@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
@@ -50,13 +50,22 @@ facebook_url:
 googleplus_url:
 instagram_url:
 linkedin_url:
-github_url:
+github_url:https://github.com/firewang2020
 pinterest_url:
 slack_url:
 dribbble_url:
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
+
+# comments # register gitalk : https://github.com/settings/applications/new
+gitalk:
+  clientID: d9895b7b553895c0d1fb    #生成的clientID
+  clientSecret: ab6718c617b27bee3a3db377ed5453554bc6182b    #生成的clientSecret
+  repo: firewang2020.github.io/jekyll-theme-prologue/    #仓库名称
+  owner: firewang2020    #github用户名
+  admin: firewang2020
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
