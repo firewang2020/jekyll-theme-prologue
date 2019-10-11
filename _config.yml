@@ -67,6 +67,9 @@ gitalk:
   admin: firewang2020
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
+# mathjax
+mathjax: true
+
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
 collections: [sections]
