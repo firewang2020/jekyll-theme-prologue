@@ -62,7 +62,7 @@ google_analytics:
 gitalk:
   clientID: d9895b7b553895c0d1fb    #生成的clientID
   clientSecret: ab6718c617b27bee3a3db377ed5453554bc6182b    #生成的clientSecret
-  repo: firewang2020.github.io/jekyll-theme-prologue/    #仓库名称
+  repo: jekyll-theme-prologue    #仓库名称
   owner: firewang2020    #github用户名
   admin: firewang2020
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
