@@ -55,8 +55,11 @@ pinterest_url:
 slack_url:
 dribbble_url:
 
+# Analytics
 # Google Analytics Tracking ID goes here:
 google_analytics:
+# busuanzi-statistics
+busuanzi: true
 
 # comments # register gitalk : https://github.com/settings/applications/new
 gitalk:
