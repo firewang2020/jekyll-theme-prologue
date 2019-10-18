@@ -75,6 +75,10 @@ gitalk:
 # mathjax
 mathjax: false
 
+# posts ordering
+order_by: date  # date | order
+ordering: ascending # ascengding | reverse
+
 # permalink
 # /:categories/:year/:month/:day/:title:output_ext
 # permalink: /:year/:title
