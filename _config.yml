@@ -77,7 +77,7 @@ mathjax: false
 
 # permalink
 # /:categories/:year/:month/:day/:title:output_ext
-permalink: /:year/:title
+# permalink: /:year/:title
 
 # The following settings are NECESSARY for the Prologue theme to run:
 # theme: jekyll-theme-prologue
