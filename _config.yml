@@ -76,5 +76,6 @@ gitalk:
 mathjax: false
 
 # The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
+# theme: jekyll-theme-prologue
+remote_theme: firewang2020/jekyll-theme-prologue
 collections: [sections]
