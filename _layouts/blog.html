@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<!-- {%- assign _posts = site.posts | sort: 'order' | reverse -%} -->
-{%- assign _posts = site.posts | sort: 'order' | ascending -%}
+<!-- {%- assign _posts = site.posts | sort: 'date' | ascending -%} -->
+{%- assign _posts = site.posts | sort: 'order' | reverse -%}
 {%- include header.html scrolly_nav=_posts -%}
 <!-- Main -->
 <div id="main">
