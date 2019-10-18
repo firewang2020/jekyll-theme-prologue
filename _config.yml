@@ -75,6 +75,10 @@ gitalk:
 # mathjax
 mathjax: false
 
+# permalink
+# /:categories/:year/:month/:day/:title:output_ext
+permalink: /:year/:title
+
 # The following settings are NECESSARY for the Prologue theme to run:
 # theme: jekyll-theme-prologue
 remote_theme: firewang2020/jekyll-theme-prologue
